@@ -1,0 +1,19 @@
+.Pai {
+    display: flex;
+    background-color: rgb(158, 148, 148);
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.primeira {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(218, 202, 63);
+}
+
+.segunda {
+    display: block;
+    background-color: yellow;
+    width: ;
+
+}
